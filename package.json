@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon run dev",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
+    "dev": "nodemon run dev",
+    "start": "node index"
+},
   "keywords": [],
   "author": "macha",
   "license": "ISC",
